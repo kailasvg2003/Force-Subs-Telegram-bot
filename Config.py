@@ -15,7 +15,7 @@ class Config():
     DATABASE_URL = ""
     APP_ID = "21967179"
     API_HASH = "37d5fbb9217cb56d6261e61305d92748"
-    SUDO_USERS = list(set(int(x) for x in '5530347700'.split()))
+    SUDO_USERS = list(set(int(x) for x in '5428019786'.split()))
     SUDO_USERS.append(939425014)
     SUDO_USERS = list(set(SUDO_USERS))
 
